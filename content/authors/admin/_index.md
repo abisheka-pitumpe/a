@@ -1,8 +1,10 @@
+title : Abisheka Pitumpe
 
+name_pronounciation: ''
 
 # Full name (for SEO)
-first_name: Abisheka
-last_name: Pitumpe
+first_name: Chamodi Abisheka
+last_name: Pitumpe Appuhamilage
 
 # Status emoji
 status:
@@ -45,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: abisheka.pitumpe@stonybrook.edu
+    link: mailto:abisheka.pitumpe@stonybrook.edu
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
